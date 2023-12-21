@@ -1,0 +1,53 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>backend_dot_net_core</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.13" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.0">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Controllers\" />
+    <None Remove="Core\" />
+    <None Remove="Core\Constants\" />
+    <None Remove="Core\DbContext\" />
+    <None Remove="Core\Dtos\" />
+    <None Remove="Core\Entities\" />
+    <None Remove="Core\Interfaces\" />
+    <None Remove="Core\Services\" />
+    <None Remove="Core\Dtos\Auth\" />
+    <None Remove="Core\Dtos\General\" />
+    <None Remove="Core\Dtos\Log\" />
+    <None Remove="Core\Dtos\Message\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="Core\" />
+    <Folder Include="Core\Constants\" />
+    <Folder Include="Core\DbContext\" />
+    <Folder Include="Core\Dtos\" />
+    <Folder Include="Core\Entities\" />
+    <Folder Include="Core\Interfaces\" />
+    <Folder Include="Core\Services\" />
+    <Folder Include="Core\Dtos\Auth\" />
+    <Folder Include="Core\Dtos\General\" />
+    <Folder Include="Core\Dtos\Log\" />
+    <Folder Include="Core\Dtos\Message\" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,78 @@
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/appsettings.Development.json
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/appsettings.json
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/backend dot-net-core
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/backend dot-net-core.deps.json
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/backend dot-net-core.runtimeconfig.json
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/backend dot-net-core.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/backend dot-net-core.pdb
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/obj/Debug/net7.0/backend dot-net-core.csproj.AssemblyReference.cache
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/obj/Debug/net7.0/backend dot-net-core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/obj/Debug/net7.0/backend dot-net-core.AssemblyInfoInputs.cache
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/obj/Debug/net7.0/backend dot-net-core.AssemblyInfo.cs
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/obj/Debug/net7.0/backend dot-net-core.csproj.CoreCompileInputs.cache
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/obj/Debug/net7.0/backend dot-net-core.MvcApplicationPartsAssemblyInfo.cs
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/obj/Debug/net7.0/backend dot-net-core.MvcApplicationPartsAssemblyInfo.cache
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/obj/Debug/net7.0/staticwebassets/msbuild.backend dot-net-core.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/obj/Debug/net7.0/staticwebassets/msbuild.build.backend dot-net-core.props
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.backend dot-net-core.props
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.backend dot-net-core.props
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/obj/Debug/net7.0/staticwebassets.build.json
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/obj/Debug/net7.0/staticwebassets.development.json
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/obj/Debug/net7.0/scopedcss/bundle/backend dot-net-core.styles.css
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/obj/Debug/net7.0/backend dot-net-core.csproj.CopyComplete
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/obj/Debug/net7.0/backend dot-net-core.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/obj/Debug/net7.0/refint/backend dot-net-core.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/obj/Debug/net7.0/backend dot-net-core.pdb
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/obj/Debug/net7.0/backend dot-net-core.genruntimeconfig.cache
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/obj/Debug/net7.0/ref/backend dot-net-core.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Azure.Core.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Azure.Identity.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Humanizer.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/System.CodeDom.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/adnaanmohamuud/Documents/code/Users-managment-fullstack/backend dot-net-core/backend dot-net-core/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
