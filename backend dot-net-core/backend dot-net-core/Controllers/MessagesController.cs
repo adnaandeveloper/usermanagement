@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using backend_dot_net_core.Core.Dtos.Message;
+using backend_dot_net_core.Core.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -11,37 +14,41 @@ namespace backend_dot_net_core.Controllers
     [Route("api/[controller]")]
     public class MessagesController : Controller
     {
-        // GET: api/values
-        [HttpGet]
-        public IEnumerable<string> Get()
+        private IMessageService _messageService;
+        public MessagesController (IMessageService messageService)
         {
-            return new string[] { "value1", "value2" };
+            _messageService =messageService;
         }
 
-        // GET api/values/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
-
-        // POST api/values
         [HttpPost]
-        public void Post([FromBody]string value)
+        [Route("create")]
+        [Authorize("Every boddy is welcome")]
+        public async Task<IActionResult> CreateNewMessage([FromBody] CreateMessageDto createMessageDto)
         {
+            var result = await _messageService.CreateNewMessageAsync(User, createMessageDto);
+            if (result.IsSucceed)
+                return Ok(result.Message);
+
+            return StatusCode(result.StatusCode, result.Message);
+
+
         }
 
-        // PUT api/values/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody]string value)
-        {
-        }
 
-        // DELETE api/values/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
+
+        [HttpPost]
+        [Route("mine")]
+        [Authorize]
+        public async Task<ActionResult<IEnumerable<GetMessageDto>>> GetMyMessages()
         {
-        }
+            var messages = await _messageService.GetMyMessagesAsync(User);
+            return Ok(messages);
+        } 
+
+
+
+
+
     }
 }
 

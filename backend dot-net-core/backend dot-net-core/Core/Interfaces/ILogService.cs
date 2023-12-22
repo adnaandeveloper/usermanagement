@@ -7,9 +7,11 @@ namespace backend_dot_net_core.Core.Interfaces
 	public interface ILogService
 	{
         Task SaveNewLog(string Username, string Description);
-        Task <IEnumerable<GetLogDto>> GetLogsAync();
-        Task<IEnumerable<GetLogDto>> GetMyLogsAync(ClaimsPrincipal User);
+        Task <IEnumerable<GetLogDto>> GetLogsAsync();
+        Task<IEnumerable<GetLogDto>> GetMyLogsAsync(ClaimsPrincipal User);
 
     }
 }
+
+
 

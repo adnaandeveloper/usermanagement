@@ -19,7 +19,7 @@ namespace backend_dot_net_core.Core.DbContext
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
-            // we want to change defayl names od identity Tables
+            // we want to change default names od identity Tables
 
             builder.Entity<ApplicationUser>(e =>
             {

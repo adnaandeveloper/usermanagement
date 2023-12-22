@@ -28,7 +28,7 @@ namespace backend_dot_net_core.Core.Services
 
         }
 
-        public async Task<IEnumerable<GetLogDto>> GetLogsAync()
+        public async Task<IEnumerable<GetLogDto>> GetLogsAsync()
         {
             var logs = await _context.Logs
                 .Select(q => new GetLogDto
@@ -45,7 +45,7 @@ namespace backend_dot_net_core.Core.Services
 
         }
 
-        public async Task<IEnumerable<GetLogDto>> GetMyLogsAync(ClaimsPrincipal User)
+        public async Task<IEnumerable<GetLogDto>> GetMyLogsAsync(ClaimsPrincipal User)
         {
 
             var logs = await _context.Logs
@@ -68,3 +68,14 @@ namespace backend_dot_net_core.Core.Services
     }
 }
 
+
+/*
+ 
+ 
+ 
+ 
+ Task SaveNewLog(string Username, string Description);
+        Task <IEnumerable<GetLogDto>> GetLogsAsync();
+        Task<IEnumerable<GetLogDto>> GetMyLogsAsync(ClaimsPrincipal User);
+ 
+ */
