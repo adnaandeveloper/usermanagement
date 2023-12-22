@@ -9,11 +9,11 @@ namespace backend_dot_net_core.Core.Interfaces
 	{
 		Task<GeneralServiceResponseDto> SeedRolesAsync();
         Task<GeneralServiceResponseDto> RegisterAsync(RegisterDto registerDto);
-        Task<LoginServiceResponseDto> LoginAsync(LoginDtos loginDto);
+        Task<LoginServiceResponseDto?> LoginAsync(LoginDtos loginDto);
         Task<GeneralServiceResponseDto> UpdateRoleAsync(ClaimsPrincipal User, UpdateRoleDto updateRoleDto);
-        Task<LoginServiceResponseDto> MeAsync(MeDto meDto);
+        Task<LoginServiceResponseDto?> MeAsync(MeDto meDto);
         Task<IEnumerable<UserInfoResult>> GetUsersListAsync();
-        Task<UserInfoResult> GetUserDetailsByUserName(string userName);
+        Task<UserInfoResult?> GetUserDetailsByUserNameAsync(string userName);
         Task<IEnumerable<string>> GetUserNamesListAsync();
     }
 }
