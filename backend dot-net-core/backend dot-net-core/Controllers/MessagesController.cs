@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using backend_dot_net_core.Core.Constants;
 using backend_dot_net_core.Core.Dtos.Message;
 using backend_dot_net_core.Core.Interfaces;
 using Microsoft.AspNetCore.Authorization;
@@ -43,8 +44,16 @@ namespace backend_dot_net_core.Controllers
         {
             var messages = await _messageService.GetMyMessagesAsync(User);
             return Ok(messages);
-        } 
+        }
 
+        //Route -Z Get all messages With Owner acces and admin Accc
+        [HttpPost]
+        [Authorize(Roles = StaticUserRoles.OwnerAdmin)]
+        public async Task<ActionResult<IEnumerable<GetMessageDto>>> GetMessages()
+        {
+            var messages = await _messageService.GetMessagesAsync();
+            return Ok(messages);
+        }
 
 
 
