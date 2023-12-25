@@ -3,7 +3,7 @@ import { ILogDto } from "../../types/ log.types";
 import axiosInstance from "../../utils/axiosInstance";
 import { LOGS_URL } from "../../utils/globalConfig";
 import { toast } from "react-hot-toast";
-import Spinner from "../../components/general/spinner";
+import Spinner from "../../components/general/Spinner";
 import moment from "moment";
 
 const SystemLogsPage = () => {
